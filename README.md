@@ -1,2 +1,2 @@
 # MCDIA-3.ML
-MAchine Learning Assignments and Activities 
+Machine Learning Assignments and Activities 
