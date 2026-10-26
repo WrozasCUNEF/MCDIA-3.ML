@@ -219,3 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .DS_Store
+
+# Added in practice 1
+.ipynb_checkpoints/
+.venv/
+*.pkl
+data/raw/
