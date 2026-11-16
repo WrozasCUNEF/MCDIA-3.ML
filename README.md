@@ -4,6 +4,7 @@ Machine Learning Tasks and Activities
 **Author:** Dr. Wolfram Rozas
 
 # Members
+Wolfram Rozas
 
 ## Machine Learning Exercises
 Repository containing the exercises for the machine learning course.
